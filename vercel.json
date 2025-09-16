@@ -1,5 +1,5 @@
 {
    "rewrites": [
-      { "source": "/(.*)", "destination": "/StevenNicks", "permanent": true }
+      { "source": "/", "destination": "/StevenNicks" }
    ]
 }
