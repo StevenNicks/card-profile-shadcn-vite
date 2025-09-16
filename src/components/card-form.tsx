@@ -103,7 +103,7 @@ export function CardForm({ className, username, ...props }: CardFormProps) {
                         </li>
                      </ul>
                   </section>
-                  <footer className="mt-3">
+                  <footer className="flex mt-3">
                      <a
                         href={profile.html_url}
                         target="_blank"
